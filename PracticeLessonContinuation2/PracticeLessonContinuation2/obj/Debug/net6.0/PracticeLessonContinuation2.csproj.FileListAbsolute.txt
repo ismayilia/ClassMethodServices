@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\bin\Debug\net6.0\PracticeLessonContinuation2.exe
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\bin\Debug\net6.0\PracticeLessonContinuation2.deps.json
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\bin\Debug\net6.0\PracticeLessonContinuation2.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\bin\Debug\net6.0\PracticeLessonContinuation2.dll
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\bin\Debug\net6.0\PracticeLessonContinuation2.pdb
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.dll
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\refint\PracticeLessonContinuation2.dll
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.pdb
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\PracticeLessonContinuation2.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLessonContinuation2\PracticeLessonContinuation2\obj\Debug\net6.0\ref\PracticeLessonContinuation2.dll

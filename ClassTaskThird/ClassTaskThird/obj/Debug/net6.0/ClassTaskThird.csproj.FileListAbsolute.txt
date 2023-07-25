@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\bin\Debug\net6.0\ClassTaskThird.exe
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\bin\Debug\net6.0\ClassTaskThird.deps.json
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\bin\Debug\net6.0\ClassTaskThird.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\bin\Debug\net6.0\ClassTaskThird.dll
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\bin\Debug\net6.0\ClassTaskThird.pdb
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.dll
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\refint\ClassTaskThird.dll
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.pdb
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ClassTaskThird.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 24.07\ClassTaskThird\ClassTaskThird\obj\Debug\net6.0\ref\ClassTaskThird.dll

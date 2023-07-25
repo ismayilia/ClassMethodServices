@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\bin\Debug\net6.0\PracticeLesson.exe
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\bin\Debug\net6.0\PracticeLesson.deps.json
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\bin\Debug\net6.0\PracticeLesson.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\bin\Debug\net6.0\PracticeLesson.dll
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\bin\Debug\net6.0\PracticeLesson.pdb
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.dll
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\refint\PracticeLesson.dll
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.pdb
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\PracticeLesson.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 24.07\PracticeLesson\PracticeLesson\obj\Debug\net6.0\ref\PracticeLesson.dll

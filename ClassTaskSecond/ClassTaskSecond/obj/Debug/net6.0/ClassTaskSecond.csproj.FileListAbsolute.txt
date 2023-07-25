@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\bin\Debug\net6.0\ClassTaskSecond.exe
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\bin\Debug\net6.0\ClassTaskSecond.deps.json
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\bin\Debug\net6.0\ClassTaskSecond.runtimeconfig.json
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\bin\Debug\net6.0\ClassTaskSecond.dll
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\bin\Debug\net6.0\ClassTaskSecond.pdb
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.dll
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\refint\ClassTaskSecond.dll
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.pdb
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ClassTaskSecond.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\ClassTaskSecond\ClassTaskSecond\obj\Debug\net6.0\ref\ClassTaskSecond.dll
